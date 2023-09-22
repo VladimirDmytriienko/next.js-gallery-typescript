@@ -1,4 +1,5 @@
+import Gallery from "./components/Gallery";
 
 export default function Home() {
-  return <h1>HEllo WORLD</h1>
+  return <Gallery/>
 }
